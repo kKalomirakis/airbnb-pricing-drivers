@@ -77,7 +77,7 @@ The analysis is written entirely in R. A single reusable pipeline function downl
 
 The core model is a mixed-effects regression: fixed effects for city and host type, random intercepts for neighbourhood (to account for the fact that listings on the same street are not independent observations). The finding was tested six ways — different professional thresholds, different room-type restrictions, different model specifications — and the regional pattern held in five of six checks, with the one exception (Oslo, entire homes only) explained and documented rather than quietly dropped.
 
-Full code, model output, and robustness tables are in [`airbnb_pricing_drivers.R`](airbnb_pricing_drivers.R).
+Full code, model output, and robustness tables are in [`airbnb_pricing_analysis.R`](airbnb_pricing_analysis.R).
 
 To reproduce: install R, run `renv::restore()` to install the exact package versions used, then source the script top to bottom. All data downloads live from Inside Airbnb — no local files required.
 
