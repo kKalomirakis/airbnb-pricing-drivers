@@ -45,7 +45,7 @@ The results split cleanly — and surprisingly — along regional lines.
 
 The key insight is not just that the numbers differ — it is that **the same business model produces opposite outcomes depending on the market it operates in**. Professionalization is not inherently premium or budget. It is a strategy, and it adapts.
 
-![Coefficient plot showing professional host price effect by city](airbnb-pricing-drivers/coefficient_plot.png)
+![Coefficient plot showing professional host price effect by city](coefficient_plot.png)
 
 ---
 
