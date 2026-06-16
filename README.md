@@ -1,4 +1,4 @@
-# Is Airbnb Still a Sharing Economy? A Six-City European Study
+# Is Airbnb Still a Sharing Economy? A Six-City European Analysis
 
 > **The short answer:** It depends entirely on where you look —
 > and the pattern is not what you'd expect.
